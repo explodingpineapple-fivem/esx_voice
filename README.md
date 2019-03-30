@@ -13,14 +13,14 @@ fvm install --save --folder=esx esx-org/esx_voice
 ```
 
 **2) Manually**
-- Download https://github.com/ESX-Org/esx_voice/releases/latest
+- Download https://github.com/explodingpineapple-fivem/esx_voice/releases/latest
 - Put it in resource/[esx] directory
 
 **3) Using Git**
 
 ```
 cd resouces
-git clone https://github.com/ESX-Org/esx_voice
+git clone https://github.com/explodingpineapple-fivem/esx_voice
 ```
 
 #### Installation
